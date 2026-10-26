@@ -2,7 +2,7 @@ fn main() {
     println!("=======================================================");
     println!("[SOLANA WEB4] [LOUIS DE BROGLIE] ($BROGLIE)");
     println!("[FIELD] Quantum Physics");
-    println!("[ROLE] Wave-particle duality of matter; de Broglie wavelength ($\lambda = h/p$)");
+    println!("[ROLE] Wave-particle duality of matter; de Broglie wavelength ($lambda = h/p$)");
     println!("[CHAIN] Solana Sealevel Virtual Machine (SVM)");
     println!("[PQC] NIST FIPS 203 (ML-KEM-768) & FIPS 204 (ML-DSA-65) Active");
     println!("=======================================================");
